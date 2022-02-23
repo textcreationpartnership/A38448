@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's universal distraction in the years 1643, 1644, 1645 left to the vvorld by a judicious and conscientious author for the use of his friends, children, and grand-children, when they come to years of discretion : and may be very useful for all men to read and practice in these distracted times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38448</idno>
+            <idno type="STC">Wing E3068</idno>
+            <idno type="STC">ESTC R31431</idno>
+            <idno type="EEBO-CITATION">11977710</idno>
+            <idno type="OCLC">ocm 11977710</idno>
+            <idno type="VID">51803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51803)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1007:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's universal distraction in the years 1643, 1644, 1645 left to the vvorld by a judicious and conscientious author for the use of his friends, children, and grand-children, when they come to years of discretion : and may be very useful for all men to read and practice in these distracted times.</title>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>MDCLIX [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal supremacy (Church of England)</term>
+               <term>Church and state --  Church of England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51803:1"/>
+            <pb facs="tcp:51803:1" rendition="simple:additions"/>
+            <p>ENGLANDS UNIVERSAL DISTRACTION In the Years 1643, 1644, 1645.</p>
+            <p>Left to the VVorld by a judicious and conſcientious Author, for the uſe of his Friends, Children, and Grand-Children, when they come to years of diſcretion.</p>
+            <p>And may be very uſeful for all men to read and practiſe in theſe diſtracted times.</p>
+            <p>Printed in the Year of our Lord, MDCLIX.</p>
+            <pb facs="tcp:51803:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:51803:2"/>
+            <head>ENGLAND'S Univerſal Diſtractions in the years 1643, 1644, 1645.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Confeſſe I am one of Queen <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> Proteſtants, being above my full age in her time, and now grown an old man, and in all my time we ever believed (notwithſtanding the bold and deſperate Treatiſes of ſome few enemies to Kings and Kingly power, to the contrary) that the <hi>Jura Regalia</hi> of Kings are holden of Heaven, and cannot for any cauſe eſcheate to their Subject; nor they for any cauſe make any poſitive or active for<g ref="char:EOLhyphen"/>cible reſiſtance againſt them; but that we ought to yield to them paſſive obedience by ſuffering the pu<g ref="char:EOLhyphen"/>niſhment, even though their commands are againſt the Law of God; and in ſuch caſe <hi>Arma noſtra ſunt Preces nostrae, nec debemus aliter reſiſtere:</hi> for who can lift up his hands againſt the Lords anointed, and be guiltleſs? ſo that in all my time it was conceived that the Jeſuiſts and ſome Papiſts onely believed that the Pope had authority to depoſe and deſtroy Kings. But now ſome amongſt our ſelves, who having the jaundies ſee all things yellow; have their eyes ſo dazled by looking after Reformation, which
+<pb n="4" facs="tcp:51803:3"/>yet they know not cither what it is, or will be, through thoſe crackt and broken ſpectacles of In<g ref="char:EOLhyphen"/>novation, and ambition of ſingularity and faction: that they think themſelves ſhould become ſtark blind, it they ſhould but caſt one good look upon the peace of the Kingdom, and not trample under foot Monarchy and Magiſtracy, and by flouds of popularity drown us in confuſion and Anarchy: as if <hi>Imperium in Imperio quaerendum eſſet:</hi> this being the onely difference between thoſe Papiſts and them; the former by Gun powder ſeeking to deſtroy both King and Parliament together; and the latter, firſt the King by Parliament, and then next both Parlia<g ref="char:EOLhyphen"/>ment and Kingdom by the People. For can it be doubted but time when Appeals are made to the People, and they imployed and ſet on work about publick actions, which ought hot to have been done, but by the hand of Authority, they will too ſoon learn their own ſtrength, that <hi>ſumma poteſtas radica<g ref="char:EOLhyphen"/>tur in voluptatibus hominum,</hi> and that then <hi>Popularis potentia optimorum potentiam ſuperat.</hi>
+            </p>
+            <p>The Senate of <hi>Rome</hi> ſeared it upon a leſſe occa<g ref="char:EOLhyphen"/>ſion, when they recall'd their Edict, that Slaves ſhould weare a certain Mark to diſcover them from Free<g ref="char:EOLhyphen"/>men, leſt by comparing the multitude, of the one, by the paucity of the other, ſome like great danger might enſue to their Senate, and Republick. And in truth ſome fear that this Myſterie countenanced under the Title [King and Parliament] worketh by ſuch hidden and ſecret influences, and inſinuations, that <hi>Solons</hi> decree that every man that in a general commotion was of neither party, ſhould be adjudg<g ref="char:EOLhyphen"/>ed infamous, would be now amongſt us too ſevere
+<pb n="5" facs="tcp:51803:3"/>and penal: for certainly there be ſome conſcienti<g ref="char:EOLhyphen"/>ous men, who albeit in reſpect of their allegiance and love to their King on the one ſide, and the ho<g ref="char:EOLhyphen"/>nour and reverence they owe to Parliaments on the other ſide, they may ſeem to other to ſtand at gaze in this <hi>via bivia,</hi> conceiving it to be <hi>via nivea;</hi> yet are they nevertheleſs in truth of the number of thoſe in <hi>Amos,</hi> Chap 5. Verſ. 13. <hi>The prudent ſhall keep ſilence at that time, for it is an evil time.</hi> And how<g ref="char:EOLhyphen"/>ſoever there be divers others of better reſolutions, as men both informed and perſwaded: yet are there many more of a third ſort (of an Oſtrich digeſtion) that are perſwaded before they arc informed, and now will not be informed, becauſe they will not be perſwaded.</p>
+            <p>By this confuſion, became my thoughts diſtracted, and my ſelf incountred with ſuch and ſo many dif<g ref="char:EOLhyphen"/>ficulties in my way, which my apprehenſions are too narrow to apprehend, or my knowledge to re<g ref="char:EOLhyphen"/>ſolve: and the more I ſtrive to melt my brains into an invention of this allay, the more I find them like the Jewels of the <hi>Iſraelites,</hi> turn'd into a Calf, meer fooliſhneſs, and therefore ſo repute, and accept them, as from a diſtracted man, of a diſtracted ſubject, in a diſtracted time wherein we all now live, and labour <hi>ſub univerſali quadam dementia,</hi> of which to exa<g ref="char:EOLhyphen"/>mine the cauſes, beſides our ſins of this Nation, would far exceed the ſlender capacity of a mean Subject, and is become a queſtion too deep and dangerous, ſithence the ſame already have long been, and yet are urged with more violent argu<g ref="char:EOLhyphen"/>ments, and ſharper Syllogiſmes then by the weak weapons of Inſtruments made with paper, and with
+<pb n="6" facs="tcp:51803:4"/>more forces and diſtinctions, then can proceed from any legall or logicall Engine. It is thou O God, that haſt moved the Land and divided it, and haſt ſhewed thy people heavy things, and haſt given them a drink of Deadly Wine, letteſt them to be eaten up like ſheep, makeſt them to be rebuked of their Neighbours, to be laughed to ſcorn, and had in diriſion of them that are round about them; the dead bodies of thy ſervants are given to be meate to the fowles of the Aire, and the fleſh of thy Saints un<g ref="char:EOLhyphen"/>to the beaſts of the land, and thoſe that remaine thou haſt ſmitten in the place of Dragons, and covered them with the Shadow of Death.</p>
+            <p>Our Fathers ſlaine by their own Sons, they by their own Brothers, they by their own Kindred and Allies, they by their Friends and neer Neighbours, and thoſe by their own Nation, of their own Houſe, of their own Faith, of their own Religion. <hi>Taci<g ref="char:EOLhyphen"/>tus</hi> reports that in the civill wars between <hi>Vitilli<g ref="char:EOLhyphen"/>us</hi> and <hi>Veſpatian,</hi> it happened that a Souldier had kil<g ref="char:EOLhyphen"/>led his own Father which was of the Enemies Army, which thing was no ſooner publiſhed, but every man begins to Abhor, Condemn and Exe<g ref="char:EOLhyphen"/>crate that War, the cauſe of ſuch an unnaturall fact, though there might have been ſaid, <hi>quare fremuerunt Gentes infidiles Romae,</hi> yet here it ſhall be ſaid <hi>quare fremuerunt Gentis Chriſtiani Angliae.</hi>
+            </p>
+            <p>It is become a crime amongſt us, to ſay, <hi>Nulla ſalus bello, pacem te poſcimus omnes.</hi> When even all, on either part, or Inrolled, Proclaimed or Declared, either for Rebells, Delinquents or Malignants, though many of them (I am confident) fight with no other weapons, but <hi>precibus &amp; lachrimis,</hi> on their
+<pb n="7" facs="tcp:51803:4"/>bended knees to their offended and revenging God; inceſſantly praying for the peace of the Nation. One, that <hi>Numa's</hi> Temple dedicated to <hi>Janus,</hi> might not be ſtill kept open; that the Dice of this civill uncivill war, may not ſtill be running, which ever runs hazard on both ſides, and drawes the heart blood as well of the innocent as nocent.</p>
+            <p>It is made an Aphoriſme, or Generall Rule in Phyſick, that in the naturall bodies the longer they are in health, the more dangerous is the Diſeaſe when it cometh, and the longer in cuting, as having none of thoſe humors ſpent, which by diſtemper gave ſovent and force to the approaching Malady.</p>
+            <p>So in Politick bodies, when civill warre once ſeizeth upon a Country, rich in the plenty of a long peace, and full with the ſurfeits of a continuall eaſe; it never leaves purging thoſe ſuperfluities, till all be waſted and conſumed, <hi>quae alia res civiles furores pe<g ref="char:EOLhyphen"/>perit, quam mini<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a faelicitas,</hi> the Sinnes of our Peace brought upon us the miſeries of man; and now we are denied the Bleſſing of Peace.</p>
+            <p>If a man diſingaged and in his right wits, ſhall ſeriouſly ponder the printed paſſages between <hi>King</hi> and <hi>Parlament;</hi> and thoſe hoſtile Proceedings, and Plunderings, Rapins and Ruines, Diſtractions &amp; De<g ref="char:EOLhyphen"/>ſtructions on both ſides, and then demand <hi>unde haec dementia,</hi> his Genius cannot readily prompt him to find it out, unleſſe by a Divine Scrutiny, for it is not to be found in this Embleme (as ſome perhaps do dreame of a mad conceipt of ſome of old,) that a huge Gyant beares up the Earth with his Shoulders, which he changeth every 30. yeares for eaſe. And that ſuch Removall, cauſes Earthquakes; which
+<pb n="8" facs="tcp:51803:5"/>they alſo obſerve<g ref="char:cmbAbbrStroke">̄</g> for an Embleme of Kings; becauſe the burthen of the whole world lies on the Shoul<g ref="char:EOLhyphen"/>diers of Soveraigne Authority. And then we mar<g ref="char:EOLhyphen"/>valle if they cannot ſay with <hi>King David, Ego ſu<g ref="char:EOLhyphen"/>ſtinco calumnas ejas,</hi> that we have ſuch Earthquakes in their change, as turnes our braines into this <hi>Uni<g ref="char:EOLhyphen"/>verſalem dementiam,</hi> for ſome in this turning of their braines, began to think in their fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, that becauſe by the Law of the land, it is unlawfull for a King to give a way his Kingdom from his lawfull Heire; ſo that for a King to give power to hold not for a year, two or three, but a perpetuall <hi>Parlament,</hi> a power inſe<g ref="char:EOLhyphen"/>perably incident to his Crown, had been inconſi<g ref="char:EOLhyphen"/>ſtent with Monarchy. And albeit that <hi>ſuprema po<g ref="char:EOLhyphen"/>teſtas ſeipſum diſſolvere,</hi> yet <hi>ligari non poteſt,</hi> like as it is in the power of a man, to kill a man, but not in his power to make him alive, and yet to reſtaine him from breathing. But this new conceipt, I hold as mad as that before mentioned.</p>
+            <p>O<g ref="char:punc">▪</g> hers would have it in this, that the Soveraigne was too blame, too give, and the Subject too bold to ask the perpetuall Cuſtody of that key, which ſhuts and opens the Cabinet of State, wherein all the parts of the Republick are lockt up from the ma<g ref="char:EOLhyphen"/>king too neer approches upon Royalty.</p>
+            <p>
+               <hi>Solomon</hi> ſay they, upon a jealouſie far more for<g ref="char:EOLhyphen"/>raigne, could deny the ſuite of his own Mother, for when <hi>Bathſheba</hi> deſired a ſmall petition of him, al<g ref="char:EOLhyphen"/>though he anſwered he could not ſay her nay; yet when ſhe ſaid, <hi>Let</hi> Abiſha <hi>the</hi> Shunamite <hi>be given to</hi> Adonia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>his Brother to Wife,</hi> he could not reply, <hi>why doſt thou ask</hi> Abiſha <hi>the</hi> Shunamite <hi>for</hi> Adoni<g ref="char:EOLhyphen"/>ah? <hi>ask for him the Kingdom alſo.</hi> And our Saviour
+<pb n="9" facs="tcp:51803:5"/>Chriſts anſwer to the Mother of <hi>Zebedees</hi> Children, might (ſay they) have taught the King to have ſatisfied ſuch a demand of his Subjects, for ſhe with her Sons coming to Chriſt, and deſiring a certain thing of him which was to grant, that thoſe her two Sons might ſit, the one at his right hand, and the other at his left in his Kingdom; they received this anſwer, ye know not what ye a k. And it is ob<g ref="char:EOLhyphen"/>ſervable, that even in this Kingdom, as the Soveraign hath ſeldome proſpered, that trampled down the ſubjects juſt liberties, ſo the ſubjects as ſeldome pro<g ref="char:EOLhyphen"/>ſpered, that climbed up to lop off the Kings juſt Pre<g ref="char:EOLhyphen"/>rogative; for in Truth God ſo diſpoſeth in Juſtice, both of King and Subject, that as that of the ſubjects liberties doth in his own hands breed a comfort to ſupport him in his allegiance and loyalty to his King, yet doth the ſame in the hands of the King breed a Canker to eat him out of the love and affe<g ref="char:EOLhyphen"/>ction of his ſubjects.</p>
+            <p>So that if the Kings prerogative which in his own hands becomes a Scepter to protect us from ruine, yet doth the ſame in the hands of a Subject become a Spade to Grave us to death.</p>
+            <p>The truth is, that the beſt Princes being ever the leaſt jealous, have ſometimes for a juſt ſatisfa<g ref="char:EOLhyphen"/>ction to their People, been drawn to part with ſome of their Royal power to them; and the Peo<g ref="char:EOLhyphen"/>ple no doubt demanded the ſame of their Prince without any evil intent at firſt, which nevertheleſs being once obtained, through ſome after-error, either in the end or in the means, in the motion, or in the moderation thereof, have proved unto them little better then the ſtollen fleſh from the Altar, which
+<pb n="10" facs="tcp:51803:6"/>by the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that ſtuck unto it, conſumed both her ſelf and the yong ones, with the Neſt it ſelf.</p>
+            <p>We need not travel into <hi>aliena Republica,</hi> being not without E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſamples here at home of this kinde; but now unſeaſonable, either for recital or application.</p>
+            <p>We know that God gave unto the <hi>Iſraelites</hi> Quailes and Manna, Angels food, when they luſted in the Wilderneſſe, yet withal ſent leanneſſe into their ſouls, and it came out again at their noſtrils, and was ſowre unto ſome of them, for they, mur<g ref="char:EOLhyphen"/>mured againſt <hi>Moſes</hi> their Prince. And it was not to be doubted but that this Act for the continuance of the Parliament was by both Houſes at the firſt ge<g ref="char:EOLhyphen"/>nerally intended for the ſoveraign antidote to cure all diſeaſes of the Kingdom. Yet obſerve its Omen in their Remonſtrance of <hi>December</hi> 15. 1641. It is acknowledged that there ſeems to be in that Act ſome reſtraint of the Royal power, in diſſolving of Parliaments, not to take it out of the Crown, but to ſuſpend the execution of it, ſo then the power ſhall remain, onely the exerciſe of it is taken away; though ſome may object that <hi>Vdna est illa potentia, qua nunquam venit in actum.</hi> And it is alſo in that Remonſtrance ſaid, that without that Act they muſt have leſt the then both Armies to diſorder and confuſion, and the whole Kingdom to Blood and Rapine: whereas the event hath wofully ſhewed, that upon confidence of that Act (for without it they had never been) are raiſed many more Armies, which hath already brought to diſorder and confu<g ref="char:EOLhyphen"/>ſion, to blood and rapine almoſt the whole King<g ref="char:EOLhyphen"/>dom. So that this Act intended to avoid civil war, hath proved the ready means ſo to kindle it, as that
+<pb n="11" facs="tcp:51803:6"/>the flames thereof, are like to conſume us all, <hi>ta<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> eſt haec univerſalis dementia.</hi> This Royall Slip, or Root of Monarchy became no ſooner to be tranſ<g ref="char:EOLhyphen"/>planted into a Popular ſoyl; but from them have in a ſhort time ſprung forth all the feares, and jealouſies, all the diſturbances, and tumults raiſed by factious, and ſeditious ſpirits. The dividing of the King from the two Houſes, of the Lords from the Lords, and of the Commons from the Commons, Remonſtrances, Declarations, Proteſtations<g ref="char:punc">▪</g> and Covenants on either part; ſeizing on the Kings Forts, Revenues, Cuſtomes, Ammunition, and Navy; the Tenth part, Taxes, Seiſures, Se<g ref="char:EOLhyphen"/>queſtrations, Plunderings, Exciſes, raiſing of great Armies of Souldiers, <hi>Milites Armati, Milites Litera<g ref="char:EOLhyphen"/>rii, &amp; Milites Clerici,</hi> the whole Army marching in their ſeveral poſtures.</p>
+            <p>Firſt, the <hi>Milites Literarii</hi> with their diſtinctions between Monarchy abſolute, and limited; limited and mixed; between a Power Radically limited, and not onely in the uſe and exerciſe of it between a Mo<g ref="char:EOLhyphen"/>ral Power to reſiſt, and an authoritative and civil power; between reſiſtance of the King himſelf, and of his Agents, and Officers; between Reſiſtance poſitive and active, negative and paſſive; between <hi>Jus Regiminis &amp; Uſurpationis,</hi> according to Gods Law and Mans Law. Alſo the reſiſtance in ſuch caſe, is not a reſiſtance of Power, but of his Will; not fighting againſt the Magiſtrate, but againſt the Man: And the King not performing his duty, the Subjects are releaſed from theirs, with many more <hi>ejuſdem farinae,</hi> which (they interpret) is to fear God, and honour the King.</p>
+            <pb n="12" facs="tcp:51803:7"/>
+            <p>Nex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to them do march <hi>Milites Clerici,</hi> many of them armed with F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rebrands, Tongues of Sedition, having their very Pulpits made chaires of Juglers; entertaining the people with ſhameleſs Paſquils and Diſcourſes grounded upon the malice of the time, and ſtuft with Schiſmes, Hereſies, and Tyrannie; and they alſo becoming Trumpets to ſound forth <hi>Quaerelas &amp; ambigu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s de Principe Sermones, &amp; quae<g ref="char:EOLhyphen"/>que alia turbamenta vulgi,</hi> having weekly to fol<g ref="char:EOLhyphen"/>low them, that no excrement be loſt (that may averſe and bring <hi>in odium</hi> Majeſty and Go<g ref="char:EOLhyphen"/>vernment) the mendatious Mercuries, and Pamph<g ref="char:EOLhyphen"/>lets of the time.</p>
+            <p>And in the laſt rank do march the <hi>Milites arma<g ref="char:EOLhyphen"/>ti,</hi> who as the <hi>Sabeans</hi> and <hi>Chaldaeans</hi> did with <hi>Iob, have taken away our Oxen plowing, and Aſſes and Camells feeding, and have ſlain our Ser<g ref="char:EOLhyphen"/>vants with the edge of the ſword.</hi> And as the Pro<g ref="char:EOLhyphen"/>phet complains, <hi>have ſpoyled our Houſes, raviſh<g ref="char:EOLhyphen"/>ed our Wives, Burned our Cities, Deſolated our Countrey, and ſcattered abroad the inhabitants thereof, and ſtill continue their battels with confuſed noiſe, and garments rowled in blood,</hi> &amp; non eſt haec univer<g ref="char:EOLhyphen"/>ſalis Dementia?</p>
+            <p>But thou O God be merciful unto us, under the ſhadow of thy wings ſhall be our refuge untill this tyrannie be over-paſt, and before the morning they are not: this is the portion of thoſe that rob us. But let no man think that the Parliament hath cauſed all theſe things, no ſurely, for (I am confident) the not being of Parliaments might perhaps bring the Monarch more power, but leſs glory; more Lords, but few Nobles; more ſlaves, but fewer ſubjects;
+<pb n="13" facs="tcp:51803:7"/>and might perhaps make his Signiories more am<g ref="char:EOLhyphen"/>ple but leſs royal; and himſelf in all of them leſs proſperous and happy: whereas on the contrary, it cannot be denied by any honeſt <hi>Engliſh</hi> heart, that <hi>Englands</hi> Parliaments are unto her, her Philoſophers ſtone, which turneth all it toucheth into gold<g ref="char:punc">▪</g> with which it cureth not onely the Diſeaſe of the Kings-evil, but alſo all other diſeaſes, as well in Church as State: it cures Schiſmes, Hereſies, Exhorbitances of Prelacie, and maintains the true and Orthodox Do<g ref="char:EOLhyphen"/>ctrine, and wholſom Diſcipline in the Church: It cures Tyrannie and Oppreſſion, and maintains U<g ref="char:EOLhyphen"/>unity and Strength in the Monarchy, it cures Factions and Diviſions, and maintains juſt Liber<g ref="char:EOLhyphen"/>ty and Reſpect of the common good in the <hi>De<g ref="char:EOLhyphen"/>mocracy.</hi>
+            </p>
+            <p>Our Parliaments are the <hi>Hercules pillars</hi> to eve<g ref="char:EOLhyphen"/>ry one of our <hi>Herculeſſes,</hi> and Princes; and the <hi>ne plus amplius</hi> both to <hi>Ariſtocracy</hi> and <hi>Democracy.</hi> And in all, either their Exceſſes or Defects, redu<g ref="char:EOLhyphen"/>ceth them to their Golden Moderation, and juſt Temper: and ſuch was this preſent Parlia<g ref="char:EOLhyphen"/>ment in its firſt beginning; Nay the Preſident of all former Parliaments fall much ſhort of what this then brought forth for the Soveraign, in point of Grace and Favour to his people, to whom he denied nothing which they challenge by Law.</p>
+            <p>But it is thought by ſome, that ſome former Parliaments having been unfortunately blaſted, that thereupon the Crown had invaded both up<g ref="char:EOLhyphen"/>on the Subjects liberty and property; and that albeit they had then a little before obtained a Tri<g ref="char:EOLhyphen"/>ennial
+<pb n="14" facs="tcp:51803:8"/>Parliament, and other Acts to redreſſe all their grievances, ſo to prevent the like preſſures in the time to come; yet, that they finding that the King to be then under a cloud with the people, they the better to pay the debts of the Kingdom, and to diſcharge the then Armies before the Parliament ſhould be ei<g ref="char:EOLhyphen"/>ther prorogued or diſſolved; preſſed for the Act of Continuance, by which (as a Member of the Aſ<g ref="char:EOLhyphen"/>ſembly of Divines in his Sermon <hi>Martii</hi> 27. 1644. imprinted by their order, and intituled <hi>A Proſpective-Glaſs for</hi> England<hi>'s Caſe,</hi> tells and aſſures them) they are become faſtened as Nail in a ſure place. But yet hath it not wrought ſo kindly as both Parlia<g ref="char:EOLhyphen"/>ment and People did expect: and as by the fruits be<g ref="char:EOLhyphen"/>fore mentioned which it ſo plentifully and ſuddenly produced appeareth, for then as if ſome few new Statiſts, or reſerved Polititians, who <hi>Honores quos quieta Republica deſperant, perturbata conſequiſe poſſe arbritrantur,</hi> and who are not alwayes the beſt ſer<g ref="char:EOLhyphen"/>vants, either to King or Kingdom, but are <hi>in Novan<g ref="char:EOLhyphen"/>dis, quam in Gerendis rebus aptiores,</hi> had deſigned this perpetual Parliament to bear the name of that, which wrought wonders in King <hi>Richard</hi> the ſecond's time. And in caſe that failed, then to bear the name of the mad Parliament, as a King <hi>Henry</hi> the thirds time; and to that end had introduced certain new Ordinances, and ſtrains of Law, pretended Parlia<g ref="char:EOLhyphen"/>mentary, not underſtood of the people in this Age: and in truth <hi>Lex nostra Parliamenti eſt ab omnibus quaerenda, à multis Ignorantia, à paucis Cognita.</hi>
+            </p>
+            <p>And yet ſome conceive it had been much better for thoſe Statiſts and Engineers (if any ſuch be) <hi>Ne<g ref="char:EOLhyphen"/>ſcire Centrum, quam non tenere Circulum:</hi> and thus
+<pb n="15" facs="tcp:51803:8"/>to run in Meanders and Mazes into this <hi>univerſalem dementiam,</hi> whereby (as ſome think) they have ſought to make the cauſe of the King, and <hi>who</hi> (ſai h <hi>Iob</hi>) <hi>will ſay unto the King thou art wicked?</hi> And as <hi>Eccleſiaſticus, Who ſhall ſay unto him, what dost thou?</hi> And as <hi>Solomon, He that provoketh him to anger, ſin<g ref="char:EOLhyphen"/>neth againſt his own ſoul.</hi>
+            </p>
+            <p>To moralize with that of the lion, who having loſt his power and ſtrength, then the Wolf pincheth him, and the Bull goars him, and the very Aſſe kicks at him, <hi>Nam Principis nomen habere, non est eſse Prin<g ref="char:EOLhyphen"/>ceps,</hi> and whereby (ſome alſo think) they have made the cauſe of the people, whoſe diſeaſe was thought to have been a conſumption of their properties and liberties.</p>
+            <p>Firſt for care of properties, to let them blood, and purge them of their eſtates.</p>
+            <p>And next for cure of their liberties, to open a<g ref="char:EOLhyphen"/>nother vein, either by impriſonment or baniſhment of their perſons, from their Wives and Children, and their own habitations; to let out a certain Malignant blood ſtill remaining in them, for that they will not pay more then they are able, and ſo impoſſibilities in this reforming generation, <hi>non est haec univerſlis de<g ref="char:EOLhyphen"/>mentia.</hi> But admit this perpetuity of Parliaments hath wrought any ſuch change or exceſſes, yet it is for Reformation in caſe of Religion, <hi>Et ſumma eſt Ratio qua pro Religione facit.</hi>
+            </p>
+            <p>Beſides it is a Rule, that the policy of Statebean-not admit any Law, or priviledge whatſoever ut in ſome particular or other (eſpecially for Reformati<g ref="char:EOLhyphen"/>on in Religion) is neceſſarily broken. But hath it no other ends? what meaneth then the bleating of
+<pb n="16" facs="tcp:51803:9"/>the ſheep in mine Eare, and the lowing of Oxen I heare, and what meaneth th s that they have taken, and poſſeſſed to themſelves, and given to others, ſe<g ref="char:EOLhyphen"/>verall Officer and places of honour, preferment and profit in the Common-wealth, which none but the King himſelf could lawfully give or diſpoſe of?</p>
+            <p>But grant it were for Reformation; yet do we not know, that Reformation is a work of Medicine and Healing, and not of deſtruction and deſolation; That Divine zeal is a benigne flame, giving light as well as heat; But an Erroneous zeal all Heate and no Light?</p>
+            <p>The Reformation wrought by the former is <hi>Re<g ref="char:EOLhyphen"/>formatio bellicoſa,</hi> effected <hi>per Gladium oris;</hi> the latter is, <hi>Reformatio bellicoſa</hi> done <hi>per os Gladii:</hi> And certainly true Religion, is rather a Setler then Stickler in Policy, and rather confirmes men in o<g ref="char:EOLhyphen"/>bedience to the Government eſtabliſhed, then in<g ref="char:EOLhyphen"/>cites them to the erecting of a new, which they nei<g ref="char:EOLhyphen"/>ther do nor can know till it be diſcovered and de<g ref="char:EOLhyphen"/>clared; wherein our preſent Religion is Erroneous. And whether in Doctrine or Diſcipline, if it be not in Doctrine, but Diſcipline and matter of Ceremony onely of the Eſſence of our Religion, then whether w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll the Reformation of it deſerve the expence of ſo much Chriſtian blood; and whether without the ſhed<g ref="char:EOLhyphen"/>ding of any blood at all, hath it not been gra<g ref="char:EOLhyphen"/>tiouſly offered, that no indifferent and unneceſſary Ceremonie, ſhould be preſſed upon weak and tender conſciences, and that both in that and other d ffe<g ref="char:EOLhyphen"/>rences in the Church and Synod of Orthodox and Learned Divines ſhould be choſen and conſulted with. Thoſe Statiſts have done well to pull down
+<pb n="17" facs="tcp:51803:9"/>Images, not ſo to ſet up Imaginations, and then make the Kings people to kill and murther one ano<g ref="char:EOLhyphen"/>ther, to uphold them before they can either know or approve them, <hi>non est haec univerſalis dementia?</hi> But yet thoſe Statiſts have another Rule, that to yield to peace before a Victory, were again to truſt in whom they cannot confide: Whereunto I anſwer, that we are to confide in whom the Law hath con<g ref="char:EOLhyphen"/>fided, and if we place Gaurdians over him, then whom ſhall we place over thoſe Gaurdians?</p>
+            <p>And for Victory, ſhould we have it, and have with it alſo what Lawes our ſelves pleaſe? though it be true, that <hi>Leges a victoribus dicuntur &amp; accipientur a victis,</hi> yet for how long? for can we think but that Lawes, which have too much force in the making, do many times prove to have too little in the binding?</p>
+            <p>Doth all binding of a King, upon the advantage of neceſſities make the breach it ſelf lawfull? No peace made by the water of Stix can be longer held inviolable, till that River be dryed up. And ſhall we then keep that River running, by drawing out all the blood of the Kingdom? Nay, think we, that Victories on either part will amend the matter? would they not be like thoſe Victories of <hi>Pyrrhus</hi> againſt the Romanes; in the firſt they might <hi>Gloriari non Gandere;</hi> and in the ſecond he himſelf ſaid, if we over<g ref="char:EOLhyphen"/>come once more, we a e undone.</p>
+            <p>Beſides, let us conſider, he was a wiſe man that ſaid, the Battaile is not of the ſtrongeſt, nor yet the bread for the wiſe, nor Riches to men of underſtand<g ref="char:EOLhyphen"/>ing, nor favour to Men of knowledg. No King or Parlament can be ſaved by the multitude of an b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt, neither is any mighty Man delive<g ref="char:EOLhyphen"/>red
+<pb n="18" facs="tcp:51803:10"/>by much ſtrength, why then will we prefer Force before Peace? ſhall we not ſee order till diſorder ſhewes it, nor learn to do but by undoing? <hi>non eſt haec univerſalis dementia?</hi> It is ſaid, that when King <hi>A<g ref="char:EOLhyphen"/>lexander</hi> the Great wrote to the Senate of <hi>Rome, ut ſe Deum facerent,</hi> and they denying it, one ſtood up and told them, <hi>videndum est, ne dum Coelum nimis custodirent, terram amitterent:</hi> Which caveat made them for the peace and ſafety of themſelves and their Country, to decree, <hi>quonian Alexander Deus eſſe vult, Deus esto.</hi> But our <hi>Carolus</hi> deſites not, <hi>ut<g ref="char:EOLhyphen"/>ſe Deum facerent,</hi> but <hi>ut ſe Reſtituerent,</hi> and that to no other Deity but that which both the Law of God, of Nature, and of our Nation hath beſtowed upon him. Yet it ſeemes alſo to be denyed him, un<g ref="char:EOLhyphen"/>leſſe he will admit ſome to be partners with him, or Gaurdians over him.</p>
+            <p>But certainly, if <hi>Valentian</hi> the Emperour (ſo cho<g ref="char:EOLhyphen"/>ſen by the Souldiers) could ſay unto them, when they would have joyned another with him; no ſaid he, it was indeed in your power to give me the Em<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e whilſt I had it not, but now I have it, it is not in your power to give me a partner.</p>
+            <p>Much more may our Emperour, for <hi>Rex eſt Impe<g ref="char:EOLhyphen"/>rator in regno ſuo,</hi> not as he by Election of the Soul<g ref="char:EOLhyphen"/>diers, but by the ſtrongeſt Title of Succeſſion, after more then twenty deſcents, demand that there be no ſharers with him in the diſpenſation of his Regall power; but that we do truſt him whom God hath truſted with it; the Bed and the Throne can abide no Rivalls.</p>
+            <p>
+               <hi>Non bene cum ſociis, regna venuſque manent,</hi> but how then, ſhall thoſe Statiſts and Men ſo active in
+<pb n="19" facs="tcp:51803:10"/>this great work, ſtand in the diſpleaſure of their King and dread Soveraign? why, who reades, unleſs with blood-ſhot eyes, the ſeverall Expreſſes and Declara<g ref="char:EOLhyphen"/>tions publiſhed to the world, offering both the ſet<g ref="char:EOLhyphen"/>ling of our Religion, juſt Liberties of the Subjects, Priviledges of Parlament, and alſo the ſuppreſſing of Popery, and preventing of Tyranny, but hath not his Soul been amazed at the continuance of theſe diſtractions? Or that can have a thought that the head cannot think to live, where the body is in this great Conſumption? but he will rather yield to the feet when they are grieved, (for they lying in fetters, the head cannot be free.)</p>
+            <p>If the hand offend the eye, or the tooth the tongue, in ſuch caſe to puniſh, would not the head find that the revenge would make all the Members of the bo<g ref="char:EOLhyphen"/>dy to become, <hi>felo's deſe,</hi> and then what kind of head will remain without a body? certainly <hi>Conſiliarius ne<g ref="char:EOLhyphen"/>mo melior est, quam tempus,</hi> which do now if ever Councill Majeſty, rather ſafetie then force, and ra<g ref="char:EOLhyphen"/>ther pardon then preſcription, for <hi>Nullum ſtabile reg<g ref="char:EOLhyphen"/>num niſi benevolentia munitum.</hi> No King can long Raigne, who is not Walled and Gaurded about with the love of his Subjects. And it is a Rule infallible for a King of <hi>England</hi> to greaten himſelf, there is no way ſo aſſured as by the love of the People.</p>
+            <p>And for the Honorable City of <hi>London,</hi> (the Kings Chamber) who can doubt, but they ſhall re<g ref="char:EOLhyphen"/>maine honoured, both with all the Immunities, Charters and Priviledges, and ſtill with more, be more and more honoured.</p>
+            <p>I am perſwaded, that they even moſt deſire to for<g ref="char:EOLhyphen"/>get their glorious Rule by Ordinances and Commit<g ref="char:EOLhyphen"/>tees,
+<pb n="20" facs="tcp:51803:11"/>and will remember what <hi>Ageſilaus</hi> anſwered a Cittizen of <hi>Sparta,</hi> who deſired an alteration of Go<g ref="char:EOLhyphen"/>vernment, that that kind of Government which a man would diſdaine in his own houſe, were very un<g ref="char:EOLhyphen"/>fit to govern great Regions by; and who is not of his mind that ſaid he had rather live under one wiſe<g ref="char:EOLhyphen"/>man (though cruell) then under the barbarous cru<g ref="char:EOLhyphen"/>elty of the multitude? And for thoſe in Parlament, are not all they, all thoſe new Statiſts accepted ſo Juſt and Honorable, and the reſt ſo Honeſt and Loy<g ref="char:EOLhyphen"/>all, that they will never habour in their Breaſts ſuch monſtrous and unnaturall thoughts againſt their K<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng and Country? howbeit, ſome doe think that there are many of them of both Houſes, which are uſed but as Codicils to a Teſtament, or as ſmall Boates to great Ships, to which they be faſtned, and from which they are let looſe, at the pleaſure of the Teſtator in the one caſe, and of the Pilot in the o<g ref="char:EOLhyphen"/>ther; but the Maſſe of the Eſta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is diſpoſed of by the Teſtament; and the tall Maſts, broad Sailes, Tackle and Furniture born by the greateſt Ships, which having ſo faſtned their Boates unto them, would enforce them (as ſome think) to adventure a Voyage to the Red Sea, rather then faile of their prizes, which thoſe great Ships, theſe new Statiſts, ſo much labour for, though they even alſo as in Chari<g ref="char:EOLhyphen"/>ty I am bound to think) if when the Act for perpe<g ref="char:EOLhyphen"/>tuating this Parlament was to have been paſſed, they could have been informed (as <hi>Hazaell</hi> was by an <hi>E<g ref="char:EOLhyphen"/>liſha</hi> how thereby it would come to paſſe, that the ſtrong holds of the Kingdom ſhould be ſet on fire, and their young men ſlain with the Sword, and ſo many thouſand of ſoules periſh by Blood and Ra<g ref="char:EOLhyphen"/>pine,
+<pb n="21" facs="tcp:51803:11"/>they would not then have anſwered with <hi>Ha<g ref="char:EOLhyphen"/>zaell,</hi> what are are we dogs, that we ſhould do this great thing? Howbeit, ſince they making no <hi>medium inter praecipitia &amp; ſumma,</hi> ſeem to take delight in that which before they had proſeſt to deteſt and abhor, <hi>&amp; non eſt h ec univerſalis dementia?</hi>
+            </p>
+            <p>
+               <hi>But thou O Lord, ſtilleſt<g ref="char:punc">▪</g> the raging of the Sea, and the noiſe of the Waves<g ref="char:punc">▪</g> and the madneſſe of the people, thou makeſt warrs to ceaſe in all the world, thou breakeſt the Bow, and ſnappeſt the Spear in ſunder, and burnest the Chariots in the fire.</hi>
+            </p>
+            <p>But ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is ſafeſt truſting when we take from the King all means of breaking: we have our brethren the <hi>Scots</hi> with a great Army to aſſiſt us. And that Member in the Aſſembly of Divines in his Sermon 27 <hi>Martii</hi> 1644 before-mentioned, aſſures us that the cauſe is invincible, and that God had ſmitten the generality of the Land with Madneſſe, Blindneſſe, and Aſtoniſhment of Heart; and that it may be feared leſt the <hi>Spaniſh,</hi> or <hi>Iriſh,</hi> or other Forraigners, may beg the whole Land of the King, and obtain it, alledging that the Nation is not <hi>Compos Mentis.</hi> And that this Work in hand is a Myſterie, a Parad x, a Riddle, a Secret that doth require a Revelati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and that ſhallow headed, narrow hearted Carnaliſts are puſled in it. But yet I ſay there is a God that fru<g ref="char:EOLhyphen"/>ſtrateth the tokens of the lyers, and maketh D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ines mad; that turneth wiſe men backwa d, and m keth their knowledge fooliſh, <hi>Iſaiah</hi> 24.2. Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ugh <hi>Ba<g ref="char:EOLhyphen"/>laam</hi> was hired to curſe, yet he was <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orced to ſay, that <hi>the ſhout of a King is amongſt them,</hi> Numb. 23.21. And it is true that God by the aſſiſtance of our brethren, hath made us prevalent, and that hath
+<pb n="22" facs="tcp:51803:12"/>alſo put into the Kings heart to truſt him with his perſon, when we proclaimed it Treaſon to thoſe here that ſhould harbor or conceal him. And that hath alſo moved the Kings heart to do, and conſent unto whatſoever the Parliament ſhall in reaſon require for the good of his people.</p>
+            <p>And do we yet heſitate? It ſeems that we having done we know not what, we now know not what to do: and is not this <hi>Univerſalis Dementia?</hi>
+            </p>
+            <p>
+               <hi>Oh my ſoul! come not thou into their ſecret, into their Aſſemblie, mine honour be not thou united, for in their anger they ſlew a man, and in their ſelf-will they digged down a wall: Curſed be their anger, for it was fierce; and their wrath for it was cruel.</hi>
+            </p>
+            <p>But for thoſe Worthies and the reſt of the Parlia<g ref="char:EOLhyphen"/>ment, bleſſe God for their brethren, who he hath made the happy inſtruments for our happy peace, ſo neer at hand; if not hindered by thoſe before men<g ref="char:EOLhyphen"/>tioned.</p>
+            <p>However I will reſt aſſured that if this fail, that ne<g ref="char:EOLhyphen"/>vertheleſſe deliverance ſhall ariſe to our King from another place, and at another time.</p>
+            <p>I confeſſe that with God <hi>Dies hora momentum in evertendis omnibus ſufficit, quae adamantinis radici<g ref="char:EOLhyphen"/>biu videntur eſse fundata,</hi> and that <hi>Englands</hi> ſins de<g ref="char:EOLhyphen"/>ſerve theſe plagues. It is God that changeth the times and the ſeaſons, and removeth Kings and ſet<g ref="char:EOLhyphen"/>teth up Kings, it is the Lord, let him do what ſeem<g ref="char:EOLhyphen"/>eth him good. But yet in this if they ſhould pre<g ref="char:EOLhyphen"/>vail, the beſt that ſhall be ſaid of it concerning them<g ref="char:EOLhyphen"/>ſelves will be, that for ſome ſhort time <hi>proſperum ſce<g ref="char:EOLhyphen"/>lus vocatur virtus,</hi> but afterwards the rods them<g ref="char:EOLhyphen"/>ſelves ſhall be caſt into the fire, in the mean this of the Poet may chance to be verified:</p>
+            <pb n="23" facs="tcp:51803:12"/>
+            <lg>
+               <l>
+                  <hi>Committat eadem diverſe Crimina fato:</hi>
+               </l>
+               <l>
+                  <hi>Ille Crucem ſceleris praetium tulit, hic Diadema.</hi>
+               </l>
+            </lg>
+            <p>But theſe ſad and melancholy conſiderations hath brought me ſo far into this <hi>Univerſalem Dementiam,</hi> that if I conclude not quickly, I muſt be committed to <hi>Bedlam</hi> into <hi>Bethlehem:</hi> yet who but a <hi>Nero</hi> can ſit and ſing when <hi>Rome</hi> burns? and who but a <hi>Faux</hi> mourns not at the deſtruction or his Countrey, for the tranſgreſſion of the land?</p>
+            <p>
+               <hi>Many are the Princes thereof by a man of under<g ref="char:EOLhyphen"/>ſtanding and knewledge the state thereof ſhall be pro<g ref="char:EOLhyphen"/>longed.</hi>
+            </p>
+            <p>
+               <hi>My Son, fear thou the Lord, and the King, and meddle not with them that are given to change, for their calamity ſhall ariſe ſuddenly.</hi>
+            </p>
+            <p>It is high time that in this great preaſe we haſten to come with the Woman in the Goſpel, and touch the garment of our Saviour, and ſo have the foun<g ref="char:EOLhyphen"/>tain of blood dried up, for which we have ſuffer<g ref="char:EOLhyphen"/>ed many things of many Phyſitians, and have ſpent all that we had, and are nothing better, but rather grow worſe</p>
+            <p>And if this land enjoy either a ſetled peace, or a laſting proſperity untill this perpetual Parliament be either ended or limited; then have I not erected my Figure aright, but my Star hath miſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led me. It w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld be too too vain for me to go about by gueſſes, and ſurmiſes to ſay who are the Impoſtors, new Statiſts, or the evil Councellors that have continued this Tra<g ref="char:EOLhyphen"/>gedy to be acted in our Nation.</p>
+            <p>S. <hi>John</hi> who was a burning and ſhining light, did bear record of him who wrought our ſalvation, and the ſame light will alſo in due time bear record
+<pb n="24" facs="tcp:51803:13" rendition="simple:additions"/>of thoſe who have wrought our deſtruction; onely my prayer for the whole Parliament to Almighty God is, that they may be reconciled to the King, and his royal heart to it, that ſo theſe flames may be quenched, that do ſo much threaten ruine to them both, and to the whole Church and State.</p>
+            <p>And thus having told you my thoughts, if the time preſent or future, ſhewes any thing herein ſeri<g ref="char:EOLhyphen"/>ous, account it then to be done in my <hi>Lucida inter<g ref="char:EOLhyphen"/>valla,</hi> and till then both that and the reſt to be done in my fits of this <hi>Vniverſalis Dementia:</hi> therefore fi ſt read them and ſilence them. Onely let my Friends, Children, and Grandchildren know in what faith I died, and in what fear I lived: and ſo <hi>vale, &amp; in haec, &amp; ab haec univerſali dementia.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>THere is a very uſeful book for theſe times lately print<g ref="char:EOLhyphen"/>ed, Intituled <hi>A Legacy left to the World by (that able Lawyer)</hi> Richard Creſwel <hi>Serjeant at Law, late one of the Judges of the Court of Common-Pleas.</hi> Addreſſed (in his life time) to his four Sons in Law: and are to be ſold by any un-biaſſed Stationers any where. Wherein is handled the Matters of Government (which hath ſo much diſtract<g ref="char:EOLhyphen"/>ed theſe three Kingdomes ſo long) and reſolves the right out of Gods Law and Mans: for the ſatisfying of all indif<g ref="char:EOLhyphen"/>ferent men.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
